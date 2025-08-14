@@ -26,7 +26,7 @@ Python • R • Scala • SQL • Apache Spark • Apache Kafka • Apache NiFi
 ## 📄 Want to know more?
 Check out my CV (add link here)
 
-📬 Reach out to me via email at: [sergiobonalgil@gmail.com]
+📬 Reach out to me via email at: [sjuanmon.data@gmail.com]
 
 ## 🌐 Let’s Connect:
-(LinkedIn | GitHub | Portfolio)
+(www.linkedin.com/in/sergio-juan-monzo)
