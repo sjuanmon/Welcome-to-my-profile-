@@ -29,4 +29,4 @@ Check out my CV (add link here)
 📬 Reach out to me via email at: [sjuanmon.data@gmail.com]
 
 ## 🌐 Let’s Connect:
-(www.linkedin.com/in/sergio-juan-monzo)
+(https://www.linkedin.com/in/sergio-juan-monzo-9328a8300/)
