@@ -24,7 +24,6 @@ Offer social context and interpretation for ethical and actionable insights
 Python • R • Scala • SQL • Apache Spark • Apache Kafka • Apache NiFi • Apache Flume • Power BI • Git • GitHub
 
 ## 📄 Want to know more?
-Check out my CV (add link here)
 
 📬 Reach out to me via email at: [sjuanmon.data@gmail.com]
 
